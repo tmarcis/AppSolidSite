@@ -10,6 +10,7 @@ namespace TestConsole
         static void Main(string[] args)
         {
             Console.WriteLine("This is a test");
+            // This is a difference.
             Console.WriteLine("Done");
         }
     }
