@@ -12,6 +12,7 @@ namespace TestConsole
             Console.WriteLine("This is a test");
             // This is a difference.
             Console.WriteLine("Done");
+            return;
         }
     }
 }
